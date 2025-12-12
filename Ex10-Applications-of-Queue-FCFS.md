@@ -18,8 +18,8 @@ To write a **Java program** to calculate the turnaround time and waiting time of
 ## Program:
 /*
 Program to calculate Waiting Time and Turnaround Time for FCFS Scheduling (Queue Application)
-Developed by: Dharani dharan K
-RegisterNumber: 212223040036
+Developed by: DEVAASANJAY N
+RegisterNumber: 212223040032
 */
 import java.util.Arrays;
 
